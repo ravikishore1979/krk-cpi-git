@@ -16,16 +16,16 @@
       <additionalMetadata/>
    </parameter><parameter>
       <key/>
-      <name>Target Address</name>
-      <type>xsd:string</type>
+      <name>bodysize</name>
+      <type>xsd:integer</type>
       <isRequired>false</isRequired>
       <constraint/>
       <description/>
       <additionalMetadata/>
    </parameter><parameter>
       <key/>
-      <name>bodysize</name>
-      <type>xsd:integer</type>
+      <name>Target Address</name>
+      <type>xsd:string</type>
       <isRequired>false</isRequired>
       <constraint/>
       <description/>
