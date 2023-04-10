@@ -3,7 +3,7 @@ import groovy.xml.MarkupBuilder
 
 import java.text.SimpleDateFormat
 
-//This is test rowl cpi git upload
+//This is test rowl cpi git upload modified in Cloud Integration Suite
 def Message processData(Message message) {
   Reader reader = message.getBody(Reader)
   def Order = new XmlSlurper().parse(reader)
